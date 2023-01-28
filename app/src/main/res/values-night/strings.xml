@@ -3,4 +3,5 @@
     <string name="nome_do_exerc_cio">nome do exercício</string>
     <string name="descreve_o_exerc_cio">Descreva o Exercício</string>
     <string name="salvar">Salvar</string>
+    <string name="url_da_imagem">URL da imagem</string>
 </resources>
